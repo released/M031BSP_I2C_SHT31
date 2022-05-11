@@ -24,11 +24,15 @@ https://github.com/Sensirion/embedded-sht
 	
 below is polling LA capture to read data 
 
-![image](https://github.com/released/M031BSP_I2C_SHT31/blob/main/LA_polling_I2C_WR_24_00.jpg)	
+![image](https://github.com/released/M031BSP_I2C_SHT31/blob/main/LA_polling_I2C_RD_data.jpg)	
 
 5. below is interrupt LA capture with REG : 0x2400 , 
 
 ![image](https://github.com/released/M031BSP_I2C_SHT31/blob/main/LA_interrupt_I2C_WR_24_00.jpg)	
+
+below is interrupt LA capture to read data 
+
+![image](https://github.com/released/M031BSP_I2C_SHT31/blob/main/LA_interrupt_I2C_RD_data.jpg)	
 	
 6. below is log message capture ,
 
